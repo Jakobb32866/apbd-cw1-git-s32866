@@ -5,7 +5,7 @@ Console.WriteLine("Hello, Mars!");
 Console.WriteLine("Hello, Jupiter!");
 Console.WriteLine("Hello, Venus!");
 
-static void CalculateAverage(int[] numbers)
+static int CalculateAverage(int[] numbers)
 {
-    
+    return numbers.Sum() / numbers.Length;
 }
