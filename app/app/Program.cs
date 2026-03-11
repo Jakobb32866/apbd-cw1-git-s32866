@@ -18,7 +18,7 @@ static int CalculateMax(int[] numbers)
     return numbers.Max();
 }
 
-static int CalculateMin(int[] numbers)
+static int CalculatorMin(int[] numbers)
 {
     return numbers.Min();
 }
