@@ -9,3 +9,8 @@ static int CalculateAverage(int[] numbers)
 {
     return numbers.Sum() / numbers.Length;
 }
+
+static int CalculateMax(int[] numbers)
+{
+    return numbers.Max();
+}
