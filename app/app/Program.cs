@@ -19,6 +19,5 @@ static int CalculateMax(int[] numbers)
 
 static int CalculateMin(int[] numbers)
 {
-    //return numbers.Min();
-    return 0;
+    return numbers.Min();
 }
