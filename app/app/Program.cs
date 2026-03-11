@@ -5,6 +5,7 @@ Console.WriteLine("Hello, Mars!");
 Console.WriteLine("Hello, Jupiter!");
 Console.WriteLine("Hello, Venus!");
 Console.WriteLine("Hello, Mercury!");
+Console.WriteLine("Hello, Saturn!");
 
 
 static int CalculateAverage(int[] numbers)
